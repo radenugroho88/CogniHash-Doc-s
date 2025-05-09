@@ -1,1 +1,1 @@
-# CogniHash-Doc-s
+# CogniHash-Docs
